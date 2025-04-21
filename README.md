@@ -34,7 +34,7 @@ Clean, extensible code for new objective functions or topologies
 
 *Installation*
 
-`code` pip install combpso
+`pip install combpso`
 
 
 Compatible with Python 3.7+
@@ -47,7 +47,7 @@ Consider using a virtual environment
 
 
 
-`code` python main.py combpso monks single True
+`python main.py combpso monks single True`
 
 
 *General syntax:*
@@ -61,7 +61,7 @@ Consider using a virtual environment
 
 
 
-`code` python main.py combpso ehr_2022 binary True
+` python main.py combpso ehr_2022 binary True`
 
 
 *Directory Overview*
