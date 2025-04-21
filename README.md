@@ -54,7 +54,7 @@ Consider using a virtual environment
 
 
 
-`code` python main.py combpso <dataset> <mode> <plot_flag>
+` python main.py combpso <dataset> <mode> <plot_flag>`
 
 
 *Example for a health dataset:*
