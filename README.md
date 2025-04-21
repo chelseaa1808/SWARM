@@ -66,8 +66,8 @@ Consider using a virtual environment
 
 *Directory Overview*
 
-<code>
-.
+
+<code>.
 ├── algorithms/         # Core PSO algorithm variants and custom implementations
 ├── datats/             # Input datasets (CSV, health data, benchmark sets)
 ├── evaluation/         # Performance metrics, result analysis, and logs
@@ -94,6 +94,6 @@ MIT License – free to use, modify, and distribute.
 
 *Acknowledgments*
 
-Original design by hdhrif
+Original design by hdhrif: https://arxiv.org/abs/1901.08619
 
 Modernized for 2025 use cases 
